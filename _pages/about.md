@@ -12,9 +12,9 @@ I am a postgraduate researcher in theoretical high-energy physics. My research i
 
 Interests
 ======
-Beyond the Standard Model
-Unification
-String Theory
+* Beyond the Standard Model
+* Unification
+* String Theory
 
 Education
 ======
