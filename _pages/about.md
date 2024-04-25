@@ -19,7 +19,7 @@ Interests
 
 Education
 ======
-1. [BSc/Phys: Theoretical Physics - University of Leeds (2023)](https://www.academia.edu/117471881/Supersymmetic_Field_Theories_The_N_1_Wonderland)
+1. [BSc/MPhys: Theoretical Physics - University of Leeds (2023)](https://www.academia.edu/117471881/Supersymmetic_Field_Theories_The_N_1_Wonderland)
 2. PhD: Theoretical Physics - University of Southampton (Expected 2028)
 
 
