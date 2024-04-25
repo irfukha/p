@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-PhD student blah blah blah
-
+I am a postgraduate researcher in theoretical high-energy physics. My research interests lie in beyond the standard model and using string theory to answer fundamental questions about reality. 
 
 Education & Experience
 ======
