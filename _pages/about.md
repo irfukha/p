@@ -10,9 +10,10 @@ redirect_from:
 PhD student blah blah blah
 
 
-Education
+Education & Experience
 ======
-I completed my integrated master's from the University of Leeds in the year 2023. During this time, I was exposed to many aspects of high-energy physics. In particular, the topic of supersymmetry captivated my attention and led me to carry out a master's project in this field, which can be found [here](https://www.academia.edu/117471881/Supersymmetic_Field_Theories_The_N_1_Wonderland)
+1. [BSc/Phys: Theoretical Physics - University of Leeds (2023)](https://www.academia.edu/117471881/Supersymmetic_Field_Theories_The_N_1_Wonderland)
+2. PhD: Theoretical Physics - University of Southampton (Expected 2028)
 
 
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
