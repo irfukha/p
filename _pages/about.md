@@ -13,6 +13,7 @@ I am a postgraduate researcher in theoretical high-energy physics. My research i
 Interests
 ======
 * Beyond the Standard Model
+* Supersymmetry
 * Unification
 * String Theory
 
