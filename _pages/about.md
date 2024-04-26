@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+[Standard Model content](/images/Standard_Model_of_Elementary_Particles IMG.png){: .align-right width="300px"}
+
+
 As a PhD student in Theoretical Particle Physics at the University of Southampton, I am pursuing my passion for understanding the fundamental nature of reality. I am working on research projects involving gauge theories and supersymmetry, using advanced mathematical tools such as group theory and differential geometry.
 
 Before my PhD, I was doing an integrated Master's at the University of Leeds. During my time in Leeds, I developed a fascination with continuous symmetries through Noether's theorem. This led me down the path of Supersymmetric Field Theories and I gained deeper insight into Lie groups and their algebras. In particular, Graded Lie Algebras and their representation in superspace. My Master's dissertation can be found [here](https://www.academia.edu/117471881/Supersymmetic_Field_Theories_The_N_1_Wonderland).
