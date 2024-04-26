@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a postgraduate researcher in theoretical high-energy physics. My research interests lie in beyond the standard model and using string theory to answer fundamental questions about reality. 
+As a PhD student in Theoretical Particle Physics at the University of Southampton, I am pursuing my passion for understanding the fundamental nature of reality. I am working on research projects involving gauge theories and supersymmetry, using advanced mathematical tools such as group theory and differential geometry.
+
+I have also been a part-time tutor at Lextra Learning since Nov 2019, where I help students achieve their academic goals in Mathematics, Further Mathematics, and Physics. I prepare them for A-level exams and Cambridge STEP entry exams, using my strong background and experience in these subjects. I enjoy sharing my knowledge and enthusiasm for physics and mathematics with my students, and enabling them to develop their skills and confidence.
 
 
 Interests
