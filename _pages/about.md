@@ -23,8 +23,4 @@ Education
 2. PhD: Theoretical Physics - University of Southampton (Expected 2028)
 
 
-Contact
-======
-* Physics & Maths: 
-* General purposes: [irfan.u.khan012@gmail.com](irfan.u.khan012@gmail.com)
 
