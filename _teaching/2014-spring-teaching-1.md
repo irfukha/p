@@ -21,6 +21,6 @@ Heading 2
 
 A-Level Mathematics (Year 13)
 ======
- * Differentiation and Integration: 
+ 1. Differentiation and Integration: 
   * [Exam Paper](/files/A2_Differentiation_and_Integration__Exam.pdf)
   * [Solutions](/files/A2_Differentiation_and_Integration__Solutions.pdf)
