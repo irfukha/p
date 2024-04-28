@@ -13,11 +13,9 @@ main:
     #url: /portfolio/
 
 
-  - title: "Lore"
-    url: /lore/
         
-  #- title: "Blog Posts"
-    #url: /year-archive/
+  - title: "Blog Posts"
+    url: /year-archive/
     
   - title: "CV"
     #url: /cv/
