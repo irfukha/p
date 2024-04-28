@@ -15,6 +15,5 @@ A-Level Mathematics (Year 13)
 ======
  1. Differentiation and Integration: 
   * [Exam Paper](https://irfukha.github.io/p/files/A2_Differentiation_and_Integration__Exam.pdf)
-  * [Solutions](/files/A2_Differentiation_and_Integration__Solutions.pdf)
-  * [Test](https://github.com/irfukha/p/blob/72f710f5249c3006c9064620419a7bb6b4077828/files/A2_Differentiation_and_Integration__Exam.pdf)
+  * [Solutions](https://irfukha.github.io/p/files/A2_Differentiation_and_Integration__Solutions.pdf)
 
