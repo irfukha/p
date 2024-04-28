@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Theoretical Particle Physics, University of Southampton, 2028 (Expected)
+* MPhys (Hons) in Theoretical Physics, University of Leeds, 2023
 
 Work experience
 ======
