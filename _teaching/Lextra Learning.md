@@ -9,6 +9,7 @@ location: "City, Country"
 ---
 
 The following are exam papers that I made for Lextra Learning students. These questions are mostly taken from various sources online, although, I have tweaked most questions and some questions are my own.
+Note: These papers are for the Edexcel exam board (2017 onwards specification) but at the end of the day, maths is a universal language. Therefore, these papers should apply to any A-Level student. 
 
 
 AS-Level Mathematics (Year 12)
