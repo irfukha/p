@@ -21,5 +21,5 @@ Heading 2
 
 A2: Differentiation and Integration
 ======
-[Exam Paper](/files/A2_Differentiation_and_Integration_Exam.pdf)
-[Solutions](/files/A2_Differentiation_and_Integration_Solutions.pdf)
+* [Exam Paper](files/A2_Differentiation_and_Integration__Exam.pdf)
+* [Solutions](files/A2_Differentiation_and_Integration__Solutions.pdf)
