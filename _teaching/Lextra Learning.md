@@ -29,6 +29,8 @@ A-Level Mathematics (Year 13)
   * [Exam Paper](https://irfukha.github.io/p/)
   * [Solutions](https://irfukha.github.io/p/)
 2. Parametrics, Numerical Methods and Vectors
+  * [Exam Paper](https://irfukha.github.io/p/)
+  * [Solutions](https://irfukha.github.io/p/)
 
 
 3. Differentiation and Integration: 
