@@ -20,7 +20,7 @@ Interests
 * Beyond the Standard Model
 * Supersymmetry
 * Unification
-* String Theory
+* String Theory & Holography
 
 Education
 ======
