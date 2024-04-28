@@ -1,17 +1,20 @@
 ---
 title: "Lextra Learning"
 collection: teaching
-type: "Undergraduate course"
+type: "A-Level Mathematics & Further Mathematics"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University 1, Department"
 date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+The following are exam papers that I made for Lextra Learning students. These questions are mostly taken from various sources online, although, I have tweaked most questions and some questions are my own.
 
-Heading 1
+A2: Differentiation and Integration
 ======
+
+
+
 
 Heading 2
 ======
