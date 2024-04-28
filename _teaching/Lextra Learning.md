@@ -13,7 +13,7 @@ The following are exam papers that I made for Lextra Learning students. These qu
 
 A-Level Mathematics (Year 13)
 ======
- 1. Differentiation and Integration: 
+ 3. Differentiation and Integration: 
   * [Exam Paper](https://irfukha.github.io/p/files/A2_Differentiation_and_Integration__Exam.pdf)
   * [Solutions](https://irfukha.github.io/p/files/A2_Differentiation_and_Integration__Solutions.pdf)
 
