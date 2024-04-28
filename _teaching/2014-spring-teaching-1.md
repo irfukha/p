@@ -3,21 +3,13 @@ title: "Lextra Learning"
 collection: teaching
 type: "A-Level Mathematics & Further Mathematics"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "Key Stage 5, Department of Maths"
+date: 
 location: "City, Country"
 ---
 
 The following are exam papers that I made for Lextra Learning students. These questions are mostly taken from various sources online, although, I have tweaked most questions and some questions are my own.
 
-Heading 1
-======
-
-
-
-
-Heading 2
-======
 
 A-Level Mathematics (Year 13)
 ======
