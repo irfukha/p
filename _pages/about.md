@@ -1,12 +1,17 @@
 ---
 permalink: /
-title: "Biography"
+title: "Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+Welcome to my website! Here you can find what I do, what I have done and what I plan to do.
+
+
+Biography
+======
 
 As a PhD student in Theoretical Particle Physics at the University of Southampton, I am pursuing my passion for understanding the fundamental nature of reality. I am working on research projects involving gauge theories and supersymmetry, using advanced mathematical tools such as group theory and differential geometry.
 
