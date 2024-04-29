@@ -58,9 +58,9 @@ A-Level Further Mathematics (Year 13)
 1. Complex Numbers, Series and Calculus
   * [Exam Paper](https://irfukha.github.io/p/)
   * [Solutions](https://irfukha.github.io/p/)
-2. Polar Coordinates and Hyperbolic Functions
+2. Polar Coordinates, Hyperbolic Functions and Volumes of Revolution
   * [Exam Paper](https://irfukha.github.io/p/)
   * [Solutions](https://irfukha.github.io/p/)
-3. Volumes of Revolution and Differential Equations
+3.  Differential Equations
   * [Exam Paper](https://irfukha.github.io/p/)
   * [Solutions](https://irfukha.github.io/p/)
