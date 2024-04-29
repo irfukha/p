@@ -62,5 +62,5 @@ A-Level Further Mathematics (Year 13)
   * [Exam Paper](https://irfukha.github.io/p/)
   * [Solutions](https://irfukha.github.io/p/)
 3.  Differential Equations
-  * [Exam Paper](https://irfukha.github.io/p/)
+  * [Exam Paper](https://irfukha.github.io/p/files/A2_Differential_Equations__Further_Exam.pdf)
   * [Solutions](https://irfukha.github.io/p/)
