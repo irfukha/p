@@ -2,7 +2,7 @@
 title: "Lextra Learning"
 collection: teaching
 type: "A-Level Mathematics & Further Mathematics"
-permalink: /teaching/Lextra Learning
+permalink: /teaching/lextra-learning
 venue: "Key Stage 5, Department of Maths"
 date: 2022-01-01
 location: "City, Country"
