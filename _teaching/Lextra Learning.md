@@ -13,7 +13,7 @@ The following are exam papers that I made for Lextra Learning students. These qu
 Note: These papers are for the Edexcel exam board (2017 onwards specification) but at the end of the day, maths is a universal language. Therefore, these papers should apply to any A-Level student. 
 
 
-AS-Level Mathematics (Year 12)
+AS-Level Mathematics: Pure (Year 12)
 ======
 1. Algebra and Geometry
   * [Exam Paper](https://irfukha.github.io/p/)
@@ -25,7 +25,7 @@ AS-Level Mathematics (Year 12)
   * [Exam Paper](https://irfukha.github.io/p/)
   * [Solutions](https://irfukha.github.io/p/)
 
-A-Level Mathematics (Year 13)
+A-Level Mathematics: Pure (Year 13)
 ======
 1. Algebra, Sequences and Trigonometry
   * [Exam Paper](https://irfukha.github.io/p/)
@@ -40,7 +40,7 @@ A-Level Mathematics (Year 13)
   * [Solutions](https://irfukha.github.io/p/files/A2_Differentiation_and_Integration__Solutions.pdf)
 
 
-AS-Level Further Mathematics (Year 12)
+AS-Level Further Mathematics: Core Pure (Year 12)
 ======
 1. Complex Numbers, Series and Roots of Polynomials
   * [Exam Paper](https://irfukha.github.io/p/)
@@ -53,7 +53,7 @@ AS-Level Further Mathematics (Year 12)
   * [Solutions](https://irfukha.github.io/p/)
 
 
-A-Level Further Mathematics (Year 13)
+A-Level Further Mathematics: Core Pure (Year 13)
 ======
 1. Complex Numbers, Series and Calculus
   * [Exam Paper](https://irfukha.github.io/p/)
