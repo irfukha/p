@@ -62,5 +62,5 @@ A-Level Further Mathematics: Core Pure (Year 13)
   * [Exam Paper](https://irfukha.github.io/p/)
   * [Solutions](https://irfukha.github.io/p/)
 3.  Differential Equations
-  * [Exam Paper](https://irfukha.github.io/p/files/A2_Differential_Equations__Further_Exam.pdf)
-  * [Solutions](https://irfukha.github.io/p/files/A2_Differential_Equations__Further_Solutions.pdf)
+  * [Exam Paper](https://irfukha.github.io/p/files/A2F_Differential_Equations__Further_Exam.pdf)
+  * [Solutions](https://irfukha.github.io/p/files/A2F_Differential_Equations__Further_Solutions.pdf)
