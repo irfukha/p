@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Irfan's Homepage 🇵🇸"
+title                    : "Irfan's Homepage"
 title_separator          : "-"
 name                     : &name "Irfan U. Khan"
 description              : &description "personal description"
