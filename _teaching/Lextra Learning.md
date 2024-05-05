@@ -12,6 +12,12 @@ The following are exam papers that I made for Lextra Learning students. These qu
 
 Note: These papers are for the Edexcel exam board (2017 onwards specification) but at the end of the day, maths is a universal language. Therefore, these papers should apply to any A-Level student. 
 
+Test
+======
+* module 1
+ 1. algebra
+  *test 1
+
 
 AS-Level Mathematics: Pure (Year 12)
 ======
