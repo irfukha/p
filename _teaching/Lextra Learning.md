@@ -57,6 +57,30 @@ AS-Level Further Mathematics (Year 12)
     * [Exam Paper](https://irfukha.github.io/p/)
     * [Solutions](https://irfukha.github.io/p/)
 
+* Further Pure 1 (FP1)
+  1. Vectors, Conic Section and Inequalities
+    * [Exam Paper](https://irfukha.github.io/p/)
+    * [Solutions](https://irfukha.github.io/p/)
+  2. t-formulae, Taylor Series and Calculus
+    * [Exam Paper](https://irfukha.github.io/p/)
+    * [Solutions](https://irfukha.github.io/p/)
+  3.  Numerical and Reducible Differential Equations
+    * [Exam Paper](https://irfukha.github.io/p/)
+    * [Solutions](https://irfukha.github.io/p/)
+* Further Pure 2 (FP2)
+  1. Number and Group Theory
+    * [Exam Paper](https://irfukha.github.io/p/)
+    * [Solutions](https://irfukha.github.io/p/)
+  2. Complex Numbers and Recurrence Relations
+    * [Exam Paper](https://irfukha.github.io/p/)
+    * [Solutions](https://irfukha.github.io/p/)
+  3.  Matrix Algebra
+    * [Exam Paper](https://irfukha.github.io/p/)
+    * [Solutions](https://irfukha.github.io/p/)
+
+
+
+
 
 A-Level Further Mathematics (Year 13)
 ======
@@ -79,7 +103,7 @@ A-Level Further Mathematics (Year 13)
   1. Vectors, Conic Section and Inequalities
     * [Exam Paper](https://irfukha.github.io/p/)
     * [Solutions](https://irfukha.github.io/p/)
-  2. t-formuale, Taylor Series and Calculus
+  2. t-formulae, Taylor Series and Calculus
     * [Exam Paper](https://irfukha.github.io/p/)
     * [Solutions](https://irfukha.github.io/p/)
   3.  Numerical and Reducible Differential Equations
@@ -92,7 +116,7 @@ A-Level Further Mathematics (Year 13)
   2. Complex Numbers and Recurrence Relations
     * [Exam Paper](https://irfukha.github.io/p/)
     * [Solutions](https://irfukha.github.io/p/)
-  3.  Matrix Algebra and Intergration Techniques
+  3.  Matrix Algebra and Integration Techniques
     * [Exam Paper](https://irfukha.github.io/p/)
     * [Solutions](https://irfukha.github.io/p/)
 
