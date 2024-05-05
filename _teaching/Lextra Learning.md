@@ -16,12 +16,12 @@ Note: These papers are for the Edexcel exam board (2017 onwards specification) b
 
 
 
-## Tables
+## AS-Level Mathematics (Year 12)
 
-### Table 1
+### Pure Mathematics
 
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
+| Topic            | Exam & Solutions |                                                              |
+| --------         | ---------------- | ------------------------------------------------------------ |
 | [John Doe](#)    | 2016   | Description of the item in the list                          |
 | [Jane Doe](#)    | 2019   | Description of the item in the list                          |
 | [Doe Doe](#)     | 2022   | Description of the item in the list                          |
