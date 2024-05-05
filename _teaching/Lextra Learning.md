@@ -22,7 +22,7 @@ Note: These papers are for the Edexcel exam board (2017 onwards specification) b
 
 | Topic            | Exam & Solutions |                                                              |
 | --------         | ---------------- | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
+| [Algebra & Geometry](#)    | 2016   | Description of the item in the list                          |
 | [Jane Doe](#)    | 2019   | Description of the item in the list                          |
 | [Doe Doe](#)     | 2022   | Description of the item in the list                          |
 
