@@ -24,15 +24,16 @@ test
 
 AS-Level Mathematics: Pure (Year 12)
 ======
-1. Algebra and Geometry
-  * [Exam Paper](https://irfukha.github.io/p/)
-  * [Solutions](https://irfukha.github.io/p/)
-2. Trigonometry, Logarithms and Vectors
-  * [Exam Paper](https://irfukha.github.io/p/)
-  * [Solutions](https://irfukha.github.io/p/)
-3. Differentiation and Integration
-  * [Exam Paper](https://irfukha.github.io/p/)
-  * [Solutions](https://irfukha.github.io/p/)
+* Pure Mathematics
+  1. Algebra and Geometry
+    * [Exam Paper](https://irfukha.github.io/p/)
+    * [Solutions](https://irfukha.github.io/p/)
+  2. Trigonometry, Logarithms and Vectors
+    * [Exam Paper](https://irfukha.github.io/p/)
+    * [Solutions](https://irfukha.github.io/p/)
+  3. Differentiation and Integration
+    * [Exam Paper](https://irfukha.github.io/p/)
+    * [Solutions](https://irfukha.github.io/p/)
 
 A-Level Mathematics: Pure (Year 13)
 ======
