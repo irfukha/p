@@ -27,15 +27,6 @@ This.
 
 
 
-## AS-Level Mathematics (Year 12)
-
-### Pure Mathematics
-
-| Topic            | Exam & Solutions |                                                              |
-| --------         | ---------------- | ------------------------------------------------------------ |
-| Algebra & Geometry    | [Exam Paper](#) & [Solutions](#)   | Description of the item in the list                          |
-| Jane Doe    | 2019   | Description of the item in the list                          |
-| Doe Doe     | 2022   | Description of the item in the list                          |
 
 
 
