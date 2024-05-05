@@ -16,7 +16,7 @@ Note: These papers are for the Edexcel exam board (2017 onwards specification) b
 
 
 <details>
-<summary>How do I dropdown?</summary>
+<summary>## How do I dropdown?</summary>
 <br>
 This.
 <br><br>
