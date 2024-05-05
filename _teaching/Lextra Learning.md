@@ -70,3 +70,34 @@ A-Level Further Mathematics (Year 13)
   3.  Differential Equations
     * [Exam Paper](https://irfukha.github.io/p/files/A2F_Differential_Equations__Further_Exam.pdf)
     * [Solutions](https://irfukha.github.io/p/files/A2F_Differential_Equations__Further_Solutions.pdf)
+
+
+
+
+
+* Further Pure 1 (FP1)
+  1. Vectors, Conic Section and Inequalities
+    * [Exam Paper](https://irfukha.github.io/p/)
+    * [Solutions](https://irfukha.github.io/p/)
+  2. t-formuale, Taylor Series and Calculus
+    * [Exam Paper](https://irfukha.github.io/p/)
+    * [Solutions](https://irfukha.github.io/p/)
+  3.  Numerical and Reducible Differential Equations
+    * [Exam Paper](https://irfukha.github.io/p/)
+    * [Solutions](https://irfukha.github.io/p/)
+* Further Pure 2 (FP2)
+  1. Number and Group Theory
+    * [Exam Paper](https://irfukha.github.io/p/)
+    * [Solutions](https://irfukha.github.io/p/)
+  2. Complex Numbers and Recurrence Relations
+    * [Exam Paper](https://irfukha.github.io/p/)
+    * [Solutions](https://irfukha.github.io/p/)
+  3.  Matrix Algebra and Intergration Techniques
+    * [Exam Paper](https://irfukha.github.io/p/)
+    * [Solutions](https://irfukha.github.io/p/)
+
+
+
+
+
+
