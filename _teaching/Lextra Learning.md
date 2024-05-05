@@ -15,11 +15,23 @@ Note: These papers are for the Edexcel exam board (2017 onwards specification) b
 
 
 
+## Subject
 <details>
-<summary>How do I dropdown?</summary>
-<br>
-This.
-<br><br>
+  <summary>Click me</summary>
+
+  ### Module
+  1. Topic
+     * Exam
+  3. Bar
+     * Baz
+     * Qux
+
+  ### Some Javascript
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
 </details>
 
 
