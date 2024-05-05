@@ -17,9 +17,7 @@ Note: These papers are for the Edexcel exam board (2017 onwards specification) b
 
 ## Subject
 <details>
-  <summary>Click me</summary>
-
-  ### Module
+  <summary>Module</summary>
   1. Topic
      * Exam
   3. Bar
