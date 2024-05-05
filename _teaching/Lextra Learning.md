@@ -22,7 +22,7 @@ test
 
 
 
-AS-Level Mathematics: Pure (Year 12)
+AS-Level Mathematics (Year 12)
 ======
 * Pure Mathematics
   1. Algebra and Geometry
