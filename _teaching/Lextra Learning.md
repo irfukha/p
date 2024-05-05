@@ -35,20 +35,16 @@ This.
 
 AS-Level Mathematics (Year 12)
 ======
-<details>
-<summary>Pure Mathematics</summary>
-<br>
-1. Algebra and Geometry
-  * [Exam Paper](https://irfukha.github.io/p/)
-  * [Solutions](https://irfukha.github.io/p/)
-2. Trigonometry, Logarithms and Vectors
-  * [Exam Paper](https://irfukha.github.io/p/)
-  * [Solutions](https://irfukha.github.io/p/)
-3. Differentiation and Integration
-  * [Exam Paper](https://irfukha.github.io/p/)
-  * [Solutions](https://irfukha.github.io/p/)
-<br><br>
-</details>
+* Pure Mathematics
+  1. Algebra and Geometry
+    * [Exam Paper](https://irfukha.github.io/p/)
+    * [Solutions](https://irfukha.github.io/p/)
+  2. Trigonometry, Logarithms and Vectors
+    * [Exam Paper](https://irfukha.github.io/p/)
+    * [Solutions](https://irfukha.github.io/p/)
+  3. Differentiation and Integration
+    * [Exam Paper](https://irfukha.github.io/p/)
+    * [Solutions](https://irfukha.github.io/p/)
   
 
 A-Level Mathematics (Year 13)
