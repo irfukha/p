@@ -14,15 +14,6 @@ Note: These papers are for the Edexcel exam board (2017 onwards specification) b
 
 
 
-<details>
-<summary>Heading1</summary>
-+ <details>
-    <summary>Heading1.1</summary>
-    + <details>
-        <summary>Heading1.1.1</summary>
-      </details>
-   </details>
-</details>
 
 
 
@@ -30,7 +21,7 @@ Note: These papers are for the Edexcel exam board (2017 onwards specification) b
 
 AS-Level Mathematics (Year 12)
 ======
-* Pure Mathematics
+* Pure Mathematics 1
   1. Algebra and Geometry
     * [Exam Paper](https://irfukha.github.io/p/)
     * [Solutions](https://irfukha.github.io/p/)
@@ -44,7 +35,7 @@ AS-Level Mathematics (Year 12)
 
 A-Level Mathematics (Year 13)
 ======
-* Pure Mathematics
+* Pure Mathematics 2
   1. Algebra, Sequences and Trigonometry
     * [Exam Paper](https://irfukha.github.io/p/)
     * [Solutions](https://irfukha.github.io/p/)
@@ -58,7 +49,7 @@ A-Level Mathematics (Year 13)
 
 AS-Level Further Mathematics (Year 12)
 ======
-* Core Pure Mathematics
+* Core Pure Mathematics 1
   1. Complex Numbers, Series and Roots of Polynomials
     * [Exam Paper](https://irfukha.github.io/p/)
     * [Solutions](https://irfukha.github.io/p/)
@@ -96,7 +87,7 @@ AS-Level Further Mathematics (Year 12)
 
 A-Level Further Mathematics (Year 13)
 ======
-* Core Pure Mathematics
+* Core Pure Mathematics 2
   1. Complex Numbers, Series and Calculus
     * [Exam Paper](https://irfukha.github.io/p/)
     * [Solutions](https://irfukha.github.io/p/)
