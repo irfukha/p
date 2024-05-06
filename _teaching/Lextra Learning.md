@@ -52,7 +52,7 @@ A-Level Mathematics (Year 13)
   3. Differentiation and Integration: 
     * [Exam Paper](https://irfukha.github.io/p/files/A2_Differentiation_and_Integration__Exam.pdf)
     * [Solutions](https://irfukha.github.io/p/files/A2_Differentiation_and_Integration__Solutions.pdf)
-* Statistics and Mechanics 1
+* Statistics and Mechanics 2
   1. Statistics
     * [Exam Paper](https://irfukha.github.io/p/)
     * [Solutions](https://irfukha.github.io/p/)
