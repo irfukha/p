@@ -31,6 +31,13 @@ AS-Level Mathematics (Year 12)
   3. Differentiation and Integration
     * [Exam Paper](https://irfukha.github.io/p/)
     * [Solutions](https://irfukha.github.io/p/)
+* Statistics and Mechanics 1
+  1. Statistics
+    * [Exam Paper](https://irfukha.github.io/p/)
+    * [Solutions](https://irfukha.github.io/p/)
+  2. Mechanics
+    * [Exam Paper](https://irfukha.github.io/p/)
+    * [Solutions](https://irfukha.github.io/p/)
   
 
 A-Level Mathematics (Year 13)
@@ -45,7 +52,14 @@ A-Level Mathematics (Year 13)
   3. Differentiation and Integration: 
     * [Exam Paper](https://irfukha.github.io/p/files/A2_Differentiation_and_Integration__Exam.pdf)
     * [Solutions](https://irfukha.github.io/p/files/A2_Differentiation_and_Integration__Solutions.pdf)
-
+* Statistics and Mechanics 1
+  1. Statistics
+    * [Exam Paper](https://irfukha.github.io/p/)
+    * [Solutions](https://irfukha.github.io/p/)
+  2. Mechanics
+    * [Exam Paper](https://irfukha.github.io/p/)
+    * [Solutions](https://irfukha.github.io/p/)
+  
 
 AS-Level Further Mathematics (Year 12)
 ======
