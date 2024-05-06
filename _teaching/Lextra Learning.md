@@ -14,19 +14,20 @@ Note: These papers are for the Edexcel exam board (2017 onwards specification) b
 
 
 
-
 <details>
-<summary>Example</summary>
-<ul><li>This dropdown contains</li>
-<li>a list!</li></ul>
+<summary>Heading1</summary>
+
+some text
++ <details>
+    <summary>Heading1.1</summary>
+
+    some more text
+    + <details>
+        <summary>Heading1.1.1</summary>
+        even more text
+      </details>
+   </details>
 </details>
-
-
-
-
-
-
-
 
 
 
