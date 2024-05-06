@@ -77,7 +77,7 @@ AS-Level Further Mathematics (Year 12)
   1. Vectors, Conic Section and Inequalities
     * [Exam Paper](https://irfukha.github.io/p/)
     * [Solutions](https://irfukha.github.io/p/)
-  2. t-formulae, Taylor Series and Calculus
+  2. $$t$$-formulae, Taylor Series and Calculus
     * [Exam Paper](https://irfukha.github.io/p/)
     * [Solutions](https://irfukha.github.io/p/)
   3.  Numerical and Reducible Differential Equations
